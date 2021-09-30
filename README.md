@@ -1,2 +1,5 @@
 # Miletto_python
-Repositório para compartilhar meus códigos dos estudos de python e também códigos utilizados em automações na minha rotina de trabalho
+Repositório com bibliotecas para automações e RPA's em python
+
+
+Repository with libraries for automations and RPA's in python
