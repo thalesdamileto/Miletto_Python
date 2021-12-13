@@ -13,4 +13,4 @@ milettoautorun = Library for softwares automations, like login and clicks based 
 
 milettoautowpp = Library for Whatsapp automations (Initially its wornking only with Whatsapp Desktop, Whatsapp version is in development, accepting improvements), like open groups, send messageges and attachments.
 
-runing_software = Exemplo de automação de abertura e login no spotfy e seleção de uma determinada playlist.
+runing_software = Exemplo de automação de abertura e login no spotify e seleção de uma determinada playlist.
