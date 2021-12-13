@@ -7,10 +7,11 @@ Repositório com bibliotecas para automações e RPA's em python
 
 >runing_software = Exemplo de automação de abertura e login no spotfy e seleção de uma determinada playlist.
 
+
 Repository with libraries for automations and RPA's in python
 
 milettoautorun = Library for softwares automations, like login and clicks based on pixel recognition.
 
-milettoautowpp = Library for Whatsapp automations (Initially its wornking only with Whatsapp Desktop, Whatsapp version is in development, accepting improvements), like open groups, send messageges and attachments.
+milettoautowpp = Library for Whatsapp automations (Initially its working only with Whatsapp Desktop, Whatsapp version is in development, accepting improvements), like open groups, send messageges and attachments.
 
 runing_software = Exemplo de automação de abertura e login no spotify e seleção de uma determinada playlist.
